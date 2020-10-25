@@ -1,10 +1,10 @@
 {
-  "name": "simple-red-white-dark",
-  "displayName": "Simple Red White (dark-mode) Theme",
-  "description": "A simple red and white colored vscode theme (dark-mode)",
-  "publisher": "Piyush",
-  "repository": "https://github.com/PiyushDatta/simple_red_white_dark",
-  "version": "0.1.9",
+  "name": "Dark Red Theme",
+  "displayName": "Dark Red Theme",
+  "description": "Dark Theme with Red-ish accents",
+  "publisher": "Vyrez",
+  "repository": "https://github.com/jhKessler/Dark-Red-Theme-VSCode",
+  "version": "1.0.0",
   "icon": "images/red_and_white_vscode_theme_icon_2.png",
   "license": "MIT",
   "engines": {
@@ -16,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Simple Red White (dark) Theme",
+        "label": "Dark Red Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Simple Red White (dark)-color-theme.json"
+        "path": "./themes/Dark Red Theme.json"
       }
     ]
   }
